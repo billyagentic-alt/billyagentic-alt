@@ -8,10 +8,10 @@ Je développe des outils d'analyse et de visualisation de donnees en Python. J'a
 
 **Derniers projets :**
 
+- [airflow_energy_insight](https://github.com/billyagentic-alt/airflow_energy_insight) -- Dashboard temps réel de l'énergie éolienne et solaire avec analyse géographique 
 - [openscience_plot_replicator](https://github.com/billyagentic-alt/openscience_plot_replicator) -- Pipeline Python pour la reproduction automatisée de figures scientifiques depuis
 - [realtime_transit_analyzer](https://github.com/billyagentic-alt/realtime_transit_analyzer) -- Analyse et visualisation en temps réel des données de transport public.
 - [polycrypto_dashboard](https://github.com/billyagentic-alt/polycrypto_dashboard) -- Tableau de bord interactif des prix crypto via API et DuckDB
-- [crypto_dashboard](https://github.com/billyagentic-alt/crypto_dashboard) -- Dashboard interactif pour analyser les prix, volumes et capitalisations des cryp
 
 **Stack :**
 

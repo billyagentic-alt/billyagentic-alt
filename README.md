@@ -8,10 +8,10 @@ Je développe des outils d'analyse et de visualisation de donnees en Python. J'a
 
 **Derniers projets :**
 
+- [crypto_dashboard](https://github.com/billyagentic-alt/crypto_dashboard) -- Dashboard interactif pour analyser les prix, volumes et capitalisations des cryp
 - [airquality_tracker](https://github.com/billyagentic-alt/airquality_tracker) -- Suivi simple de la qualité de l'air avec visualisation
 - [csv_ascii_stats](https://github.com/billyagentic-alt/csv_ascii_stats) -- Analyse rapide d'un CSV avec affichage d'histogrammes ASCII
 - [csv_insight_reporter](https://github.com/billyagentic-alt/csv_insight_reporter) -- Analyse rapide et visualisation d'un fichier CSV ou JSON en un seul script.
-- [csv_trend_explorer](https://github.com/billyagentic-alt/csv_trend_explorer) -- Explore temporal trends in CSV/JSON datasets via CLI and generate visual reports
 
 **Stack :**
 

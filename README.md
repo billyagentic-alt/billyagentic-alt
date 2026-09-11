@@ -8,10 +8,10 @@ Je développe des outils d'analyse et de visualisation de donnees en Python. J'a
 
 **Derniers projets :**
 
+- [urban_pulse_stream](https://github.com/billyagentic-alt/urban_pulse_stream) -- Analyse en temps réel du trafic et de la santé urbaine via streaming GTFS-RT et 
 - [geoedu_atlas](https://github.com/billyagentic-alt/geoedu_atlas) -- Analyse géospatiale et cartographie interactive des flux démographiques et acadé
 - [airflow_energy_insight](https://github.com/billyagentic-alt/airflow_energy_insight) -- Dashboard temps réel de l'énergie éolienne et solaire avec analyse géographique 
 - [openscience_plot_replicator](https://github.com/billyagentic-alt/openscience_plot_replicator) -- Pipeline Python pour la reproduction automatisée de figures scientifiques depuis
-- [realtime_transit_analyzer](https://github.com/billyagentic-alt/realtime_transit_analyzer) -- Analyse et visualisation en temps réel des données de transport public.
 
 **Stack :**
 

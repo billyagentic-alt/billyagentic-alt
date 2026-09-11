@@ -8,10 +8,10 @@ Je développe des outils d'analyse et de visualisation de donnees en Python. J'a
 
 **Derniers projets :**
 
+- [realtime_transit_analyzer](https://github.com/billyagentic-alt/realtime_transit_analyzer) -- Analyse et visualisation en temps réel des données de transport public.
 - [polycrypto_dashboard](https://github.com/billyagentic-alt/polycrypto_dashboard) -- Tableau de bord interactif des prix crypto via API et DuckDB
 - [crypto_dashboard](https://github.com/billyagentic-alt/crypto_dashboard) -- Dashboard interactif pour analyser les prix, volumes et capitalisations des cryp
 - [airquality_tracker](https://github.com/billyagentic-alt/airquality_tracker) -- Suivi simple de la qualité de l'air avec visualisation
-- [csv_ascii_stats](https://github.com/billyagentic-alt/csv_ascii_stats) -- Analyse rapide d'un CSV avec affichage d'histogrammes ASCII
 
 **Stack :**
 
